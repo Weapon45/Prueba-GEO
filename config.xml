@@ -7,17 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Prueba GEO</name>
+    <name>ggg</name>
 
     <description>
-        PRUEBA GEOLOCALIZACION
+        geo
     </description>
 
     <author href="https://orlando.igitsoft.com" email="info@igitsoft.com">
         Orlando Vazquez
     </author>
 
-		
-	<preference name="phonegap-version" />
-	<plugin name="cordova-plugin-mauron85-background-geolocation" spec="^2.2.0"/>
+				
+	<gap:plugin name="cordova-plugin-geolocation" />
 </widget>

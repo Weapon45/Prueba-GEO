@@ -9,4 +9,4 @@ var fn{
 		alert(p.coords.latitude + " " + p.coords.logitude + " " + p.coords.timeStamp);
 	}
 }
-$(fn.ready);
+$(fn.posicionObtenida);
