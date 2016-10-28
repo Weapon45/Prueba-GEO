@@ -19,4 +19,5 @@
 
 		
 	<preference name="phonegap-version" />
+	<plugin name="cordova-plugin-mauron85-background-geolocation" spec="^2.2.0"/>
 </widget>
