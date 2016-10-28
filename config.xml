@@ -20,5 +20,5 @@
 		
 	<preference name="phonegap-version"/>
 			
-	<gap:plugin name="org.apache.cordova.geolocation" />
+	<plugin name="com.jmi2.cordova.geolocation" spec="0.3.15" source="pgb" />
 </widget>
